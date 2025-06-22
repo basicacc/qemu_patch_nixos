@@ -45,5 +45,3 @@ To only patch "qemu" (not virt-machine's qemu"):
 ```
 
 Now, if you just going to use qemu without "virtual machine manager" fetch it directly from Hypervisor-Phantom but if you love virtual machine manager like me, do the second one I gave example of.
-Note: 10.0.2 patches doesn't work, (for now) don't waste time on them.
-Note: I will 100% work on the patch more, might even write script for it too.
